@@ -143,7 +143,7 @@ The exact path depends on the local liboqs installation.
 ------
 The shared libraries can also be inspected using:
 
-file r1_pqc_kem_lib.so
+file r1_pqc_kem_lib.so, 
 file r1_sign_lib.so
 
 
