@@ -111,7 +111,7 @@ ls -lh *.so
 
 The expected files are:
 
-r1_pqc_kem_lib.so
+r1_pqc_kem_lib.so, 
 r1_sign_lib.so
 
 ## Verify the Shared Library
