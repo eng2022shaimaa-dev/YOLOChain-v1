@@ -8,31 +8,24 @@ This repository contains the source code and experimental materials used to eval
 
 
 YOLOChain/
-│
-├── Ablation Study/
-│   ├── experiment_A&B/
-│   ├── experiment_C/
-│   └── experiment_D/
-│
-├── PQC_library/
-│
-├── KEM_Benchmark/
-│   ├── kyber/
-│   ├── ntru/
-│   └── BIKE/
-│
-├── Signature_Benchmark/
-│   ├── falcon/
-│   ├── mayo/
-│   └── sphincs/
-│
-├── scalability_yolochain/
-│
-├── security/
-│
-├── README.md
-├── requirements.txt
-├── package.json
+1.	Ablation Study/
+•	experiment_A&B/
+•	experiment_C/
+•	experiment_D/
+2.	PQC_library/
+3.	KEM_Benchmark/
+•	kyber/
+•	ntru/
+•	BIKE/
+4.	Signature_Benchmark/
+•	falcon/
+•	mayo/
+•	sphincs/
+5.	scalability_yolochain/
+6.	security/
+7.	README.md
+8.	requirements.txt
+9.	package.json
 
 
 ## Experiments
