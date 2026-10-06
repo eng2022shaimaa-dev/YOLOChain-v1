@@ -9,64 +9,30 @@ This repository contains the source code and experimental materials used to eval
 
 YOLOChain/
 │
-├── .gitignore
+├── Ablation Study/
+│   ├── experiment_A&B/
+│   ├── experiment_C/
+│   └── experiment_D/
+│
+├── PQC_library/
+│
+├── KEM_Benchmark/
+│   ├── kyber/
+│   ├── ntru/
+│   └── BIKE/
+│
+├── Signature_Benchmark/
+│   ├── falcon/
+│   ├── mayo/
+│   └── sphincs/
+│
+├── scalability_yolochain/
+│
+├── security/
+│
 ├── README.md
 ├── requirements.txt
 ├── package.json
-│
-├── Ablation Study/
-│   ├── experiment_A&B/
-│   │   ├── unified_experiment_AB.py
-│   │   └── experiment_A&B_readme.md
-│   │
-│   ├── experiment_C/
-│   │   ├── *.js
-│   │   ├── experiment_C_E2E.py
-│   │   └── experiment_C_readme.md
-│   │
-│   ├── experiment_D/
-│   │   ├── *.js
-│   │   ├── *.py
-│   │   └── experiment_D_readme.md
-│   │
-│   └── ablation_readme.md
-│
-├── PQC_library/
-│   ├── r1_pqc_kem_lib.cpp
-│   ├── r1_sign_lib.cpp
-│   └── PQC_library_readme.md
-│
-├── kem benchmark/
-│   ├── kyber/
-│   │   ├── kyber_pqc_benchmark.cpp
-│   │   └── steps_to_run.md
-│   ├── ntru/
-│   │   ├── ntru_pqc_benchmark.cpp
-│   │   └── steps_to_run.md
-│   └── BIKE/
-│       ├── bike_pqc_benchmark.cpp
-│       └── steps_to_run.md
-│
-├── signature benchmark/
-│   ├── falcon/
-│   │   ├── falcon_pqc_benchmark.cpp
-│   │   └── steps_to_run.md
-│   ├── mayo/
-│   │   ├── mayo_pqc_benchmark.cpp
-│   │   └── steps_to_run.md
-│   └── sphincs/
-│       ├── sphincs_pqc_benchmark.cpp
-│       └── steps_to_run.md
-│
-├── scalability_yolochain/
-│   ├── *.js
-│   ├── *.py
-│   └── scalability_yolochain_readme.md
-│
-└── security/
-    ├── *.js
-    ├── *.py
-    └── security_readme.md
 
 
 ## Experiments
