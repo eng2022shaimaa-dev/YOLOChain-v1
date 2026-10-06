@@ -126,10 +126,11 @@ nm -D r1_pqc_kem_lib.so | grep pqc_kem
 
 The exported functions should include:
 
-•	pqc_kem_keypair
-•	pqc_kem_encaps
-•	pqc_kem_decaps
-•	pqc_kem_free
+1.	pqc_kem_keypair
+2.	pqc_kem_encaps
+3.	pqc_kem_decaps
+4.	pqc_kem_free
+
 
 ## Runtime Library Path
 
