@@ -5,9 +5,9 @@ This directory contains the C++ implementations and shared libraries used by the
 ## Files
 
 
-r1_pqc_kem_lib.cpp
-r1_pqc_kem_lib.so
-r1_sign_lib.cpp
+r1_pqc_kem_lib.cpp, 
+r1_pqc_kem_lib.so, 
+r1_sign_lib.cpp, 
 r1_sign_lib.so
 
 
